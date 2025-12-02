@@ -404,21 +404,40 @@ For issues or questions, please check:
 
 ## 🌟 Live Demo
 
-Visit the live application: [LuxeCart Demo](https://github.com/abraxas0001/E-Com-Cart)
+**🚀 [Visit LuxeCart Live Demo](https://e-com-cart-orpin.vercel.app/)**
+
+Experience the premium shopping interface with glass morphism design and dark mode!
 
 ## 📸 Screenshots
 
-### Light Mode
-- Hero section with gradient background
-- Product grid with glass morphism cards
-- Cart page with order summary
-- Checkout form with validation
+### 📱 Mobile Experience
+<div align="center">
+  <img src="https://i.imgur.com/smartphone-max-2.png" alt="Smartphone Max 2 Product View" width="300"/>
+  <p><em>Premium mobile shopping experience with glass morphism design</em></p>
+</div>
 
-### Dark Mode
-- Beautiful dark gradients
-- Glass effects with dark backdrop
-- Purple/blue color scheme
-- Consistent theming throughout
+### 💻 Desktop Views
+
+#### Light Mode
+- ✨ Hero section with gradient background
+- 🛍️ Product grid with glass morphism cards
+- 🛒 Cart page with order summary
+- 💳 Checkout form with validation
+- 🎨 Clean, modern interface
+
+#### Dark Mode
+- 🌙 Beautiful dark gradients
+- 💎 Glass effects with dark backdrop
+- 💜 Purple/blue color scheme
+- ✨ Consistent theming throughout
+- 🎯 Enhanced readability
+
+### Key Features Showcase
+- 🎨 **Glass Morphism**: Frosted glass effects throughout
+- 🌓 **Theme Toggle**: Seamless light/dark mode switching
+- ✨ **Smooth Animations**: Framer Motion powered transitions
+- 📱 **Responsive**: Perfect on all devices
+- 🚀 **Fast**: Lightning-fast Vite builds
 
 ## 🤝 Contributing
 
