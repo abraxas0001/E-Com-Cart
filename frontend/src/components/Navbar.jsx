@@ -6,7 +6,7 @@ import { useTheme } from '../context/ThemeContext';
 const Navbar = () => {
   const { items } = useCart();
   const { user } = useUser();
-  const { theme, toggleTheme } = useTheme();
+  const { isDark, toggleTheme } = useTheme();
   const itemCount = items.reduce((sum, item) => sum + item.quantity, 0);
 
   return (
@@ -48,7 +48,7 @@ const Navbar = () => {
                 {/* Sun Icon - Shows in Dark Mode */}
                 <svg 
                   className={`absolute inset-0 w-6 h-6 text-yellow-400 transition-all duration-500 ${
-                    theme === 'dark' 
+                    isDark 
                       ? 'opacity-100 rotate-0 scale-100' 
                       : 'opacity-0 rotate-180 scale-0'
                   }`}
@@ -61,7 +61,7 @@ const Navbar = () => {
                 {/* Moon Icon - Shows in Light Mode */}
                 <svg 
                   className={`absolute inset-0 w-6 h-6 text-indigo-600 dark:text-indigo-400 transition-all duration-500 ${
-                    theme === 'light' 
+                    !isDark 
                       ? 'opacity-100 rotate-0 scale-100' 
                       : 'opacity-0 -rotate-180 scale-0'
                   }`}
@@ -74,7 +74,7 @@ const Navbar = () => {
               
               {/* Glow effect on hover */}
               <div className={`absolute inset-0 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 ${
-                theme === 'dark' 
+                isDark 
                   ? 'bg-yellow-400/10' 
                   : 'bg-indigo-600/10'
               }`}></div>
