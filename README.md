@@ -412,9 +412,11 @@ Experience the premium shopping interface with glass morphism design and dark mo
 
 ### 📱 Mobile Experience
 <div align="center">
-  <img src="https://i.imgur.com/smartphone-max-2.png" alt="Smartphone Max 2 Product View" width="300"/>
+  <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=800&fit=crop" alt="Premium Mobile Shopping Experience" width="300"/>
   <p><em>Premium mobile shopping experience with glass morphism design</em></p>
 </div>
+
+> **Smartphone Max 2** - Experience seamless shopping with our responsive design optimized for all devices. Features include smooth animations, glass morphism effects, and intuitive navigation.
 
 ### 💻 Desktop Views
 
