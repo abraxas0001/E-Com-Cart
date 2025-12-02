@@ -413,44 +413,7 @@ Experience the premium shopping interface with glass morphism design and dark mo
   <p><em>LuxeCart - Premium E-Commerce Platform with Glass Morphism UI</em></p>
 </div>
 
-## 📸 Screenshots
 
-### 🖥️ Desktop Experience
-<div align="center">
-  <img src="./screenshots/luxecart-preview.png" alt="LuxeCart Desktop View" width="100%"/>
-  <p><em>Beautiful product showcase with glass morphism cards and smooth animations</em></p>
-</div>
-
-### 📱 Mobile Experience
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=800&fit=crop" alt="Premium Mobile Shopping Experience" width="300"/>
-  <p><em>Premium mobile shopping experience with glass morphism design</em></p>
-</div>
-
-> **Smartphone Max 2** - Experience seamless shopping with our responsive design optimized for all devices. Features include smooth animations, glass morphism effects, and intuitive navigation.
-
-### 💻 Desktop Views
-
-#### Light Mode
-- ✨ Hero section with gradient background
-- 🛍️ Product grid with glass morphism cards
-- 🛒 Cart page with order summary
-- 💳 Checkout form with validation
-- 🎨 Clean, modern interface
-
-#### Dark Mode
-- 🌙 Beautiful dark gradients
-- 💎 Glass effects with dark backdrop
-- 💜 Purple/blue color scheme
-- ✨ Consistent theming throughout
-- 🎯 Enhanced readability
-
-### Key Features Showcase
-- 🎨 **Glass Morphism**: Frosted glass effects throughout
-- 🌓 **Theme Toggle**: Seamless light/dark mode switching
-- ✨ **Smooth Animations**: Framer Motion powered transitions
-- 📱 **Responsive**: Perfect on all devices
-- 🚀 **Fast**: Lightning-fast Vite builds
 
 ## 🤝 Contributing
 
