@@ -408,7 +408,18 @@ For issues or questions, please check:
 
 Experience the premium shopping interface with glass morphism design and dark mode!
 
+<div align="center">
+  <img src="./screenshots/luxecart-preview.png" alt="LuxeCart Preview" width="100%"/>
+  <p><em>LuxeCart - Premium E-Commerce Platform with Glass Morphism UI</em></p>
+</div>
+
 ## 📸 Screenshots
+
+### 🖥️ Desktop Experience
+<div align="center">
+  <img src="./screenshots/luxecart-preview.png" alt="LuxeCart Desktop View" width="100%"/>
+  <p><em>Beautiful product showcase with glass morphism cards and smooth animations</em></p>
+</div>
 
 ### 📱 Mobile Experience
 <div align="center">
